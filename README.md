@@ -15,3 +15,6 @@ A simple trainer that contains the most common features of the Unreal Engine Con
 - Walk: Ctrl+Alt+H
 - Ascend: Ctrl+Alt+PgUp
 - Descend: Ctrl+Alt+PgDw
+
+# Disclaimer
+Most of this mod was developed with AI assistance, so it may contain bugs. Feel free to modify the code and publish an updated version, but please credit me and tag me if you do.
