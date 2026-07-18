@@ -10,8 +10,8 @@ A simple trainer that contains the most common features of the Unreal Engine Con
 6. Have fun
 
 # Commands
-Ghost + Fly: Ctrl+Alt+G
-Only Fly: Ctrl+Alt+F
-Walk: Ctrl+Alt+H
-Ascend: Ctrl+Alt+PgUp
-Descend: Ctrl+Alt+PgDw
+• Ghost + Fly: Ctrl+Alt+G
+• Only Fly: Ctrl+Alt+F
+• Walk: Ctrl+Alt+H
+• Ascend: Ctrl+Alt+PgUp
+• Descend: Ctrl+Alt+PgDw
