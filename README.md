@@ -1,5 +1,5 @@
 # WTTG3SD-Trainer
-A simple trainer that contains the most common features of the Unreal Engine Console commands for Welcome To The Game III.
+A simple trainer that contains the most common features of the Unreal Engine Console commands and some cheats for Welcome To The Game III.
 
 # Installation
 1. Download [UE4SS experimetal-latest](https://github.com/UE4SS-RE/RE-UE4SS/releases) and place all the files where the "-Shipping.exe" is (typically in \steamapps\common\Welcome to the Game III\WTTGSD\Binaries\Win64)
@@ -9,12 +9,25 @@ A simple trainer that contains the most common features of the Unreal Engine Con
 5. Start the game and load a save or do a New Game
 6. Have fun
 
-# Commands
+# Keybinds Commands
 - Ghost + Fly: Ctrl + Alt + G
 - Fly Only: Ctrl + Alt + F
 - Walk: Ctrl + Alt + H
 - Ascend: Ctrl + Alt + PgUp
 - Descend: Ctrl + Alt + PgDn
 
-# Disclaimer
+# Console Commands 
+From version 1.0.1:
+- addcoin &lt;amount&gt; (Add DOS Coins to your balance)
+- rmcoin &lt;amount&gt; (Remove DOS Coins from your balance)
+
+# Console Commands Usage
+Once you are in game press F10 or ~ or @ (depends on the UE4SS configuration) to open the game console and type here the commands.
+
+# DOS Coins Discaimer
+When you change your balance, the in-game widget doesn't update until another function triggers an update. For example, gaining DOS Coins through VM Mining will update the balance widget on the Motel's Computer.
+Even if the widget doesn't update, your actual balance is still correctly changed, so you can still buy something from the DarkDrop using the amount of coins you added. Buying something from the DarkDrop will also update the widget.
+
+# Disclaimers
 Most of this mod was developed with AI assistance, so it may contain bugs. Feel free to modify the code and publish an updated version, but please credit me and tag me if you do.
+If you have any questions or find any bugs, feel free to report them in the Issues tab here on GitHub.
