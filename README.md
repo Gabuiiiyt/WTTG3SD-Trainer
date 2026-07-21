@@ -6,8 +6,9 @@ A simple trainer that contains the most common features of the Unreal Engine Con
 2. Download [StaticConstructObject.lua](https://github.com/UE4SS-RE/RE-UE4SS/blob/9ec5ece71d2bf55e463413e772b138757d3412cb/assets/CustomGameConfigs/Drainsim/UE4SS_Signatures/StaticConstructObject.lua#L4)
 3. Put StaticConstructObject.lua in \steamapps\common\Welcome to the Game III\WTTGSD\Binaries\Win64\ue4ss\UE4SS_Signatures
 4. Download ForceCheats, extract the .zip in \steamapps\common\Welcome to the Game III\WTTGSD\Binaries\Win64\ue4ss\Mods (Do not remove the files from the folder "ForceCheats")
-5. Start the game and load a save or do a New Game
-6. Have fun
+5. Modify the mods.txt file in \steamapps\common\Welcome to the Game III\WTTGSD\Binaries\Win64\ue4ss\Mods and write **"ForceCheats:1"**
+7. Start the game and load a save or do a New Game
+8. Have fun
 
 # Keybinds Commands
 - Ghost + Fly: Ctrl + Alt + G
